@@ -1,0 +1,23 @@
+﻿<Styles version="1" FontName="Lucida Console" FontSize="10" BackColor="FF212121" MarginColor="FF3B3B3B">
+  <Style name="Text" Bold="False" Italic="False" Underline="False" ForeColor="FFFFFFFF" BackColor="0" />
+  <Style name="Command" Bold="False" Italic="False" Underline="False" ForeColor="66D9EF" BackColor="0" />
+  <Style name="Alias" Bold="False" Italic="False" Underline="False" ForeColor="66D9EF" BackColor="0" />
+  <Style name="Reserved Word" Bold="False" Italic="False" Underline="False" ForeColor="F92672" BackColor="0" />
+  <Style name="Operator" Bold="False" Italic="False" Underline="False" ForeColor="FFD3D3D3" BackColor="0" />
+  <Style name="Variable" Bold="False" Italic="False" Underline="False" ForeColor="FD971F" BackColor="0" />
+  <Style name="Number" Bold="False" Italic="False" Underline="False" ForeColor="AE81FF" BackColor="0" />
+  <Style name="String" Bold="False" Italic="False" Underline="False" ForeColor="E6DB74" BackColor="0" />
+  <Style name="Comment" Bold="False" Italic="False" Underline="False" ForeColor="75715E" BackColor="0" />-
+  <Style name="Function" Bold="False" Italic="False" Underline="False" ForeColor="A6E22E" BackColor="0" />
+  <Style name="Parameter" Bold="False" Italic="False" Underline="False" ForeColor="FFF5F5F5" BackColor="0" />
+  <Style name="Unknown Parameter" Bold="False" Italic="True" Underline="False" ForeColor="FFF5F5F5" BackColor="0" />
+  <Style name="Command As Parameter" Bold="False" Italic="True" Underline="False" ForeColor="FFF5F5F5" BackColor="0" />
+  <Style name="Code Snippet Field" Bold="False" Italic="False" Underline="False" ForeColor="0" BackColor="FFC8FFFF" />
+  <Style name="Highlighted Reference" Bold="False" Italic="False" Underline="False" ForeColor="0" BackColor="FFDBE0CC" />
+  <Style name="Type" Bold="False" Italic="False" Underline="False" ForeColor="A6E22E" BackColor="0" />
+  <Style name="Parameter Attribute" Bold="False" Italic="False" Underline="False" ForeColor="F92672" BackColor="0" />
+  <Style name="Unknown Command" Bold="False" Italic="False" Underline="False" ForeColor="FF696969" BackColor="0" />
+  <Style name="External Tool" Bold="False" Italic="False" Underline="False" ForeColor="AE81FF" BackColor="0" />
+  <Style name="Command Argument" Bold="False" Italic="False" Underline="False" ForeColor="A6E22E" BackColor="0" />
+  <Style name="Loop Label" Bold="False" Italic="True" Underline="False" ForeColor="F92672" BackColor="0" />
+</Styles>
